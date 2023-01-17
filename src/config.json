@@ -1,0 +1,18 @@
+{
+    "problem": "problem17",
+    "max_iterations": 1000,
+    "pop_factor": 10,
+    "elite_factor": 0.05,
+    "tolerance": 0.01,
+    "lx": {
+        "a": 0,
+        "br": 0.15,
+        "bi": 0.35,
+        "pc": 0.8
+    },
+    "pm": {
+        "pr": 10,
+        "pi": 4,
+        "pm": 0.005
+    }
+}
